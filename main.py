@@ -119,6 +119,7 @@ while running:
     # pygame.draw.circle(screen, (255, 255, 0), (635+(120/2), y+120/2), 10)
     # pygame.draw.circle(screen, (255, 0, 0), (xt+(350//2)/2, y+120/2), 10)
     # pygame.draw.circle(screen, (255, 0, 255), (xb+(350//2)/2, y+120/2), 10)
+    # h
     sc = font.render(f"Score: {point}", True, (255, 20, 147))
     screen.blit(sc, (1270-350, 50))
 
